@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student login="MitarAlex7" faculty="mmf">
+		<name>Mitar Alex</name>
+		<telephone>2456474</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Minsk</city>
+			<street>Kalinovsky 45</street>
+			<student>adadsas</student>
+		</address>
+	</student>
+	<student login="stepa_ivanov" faculty="ksis">
+		<name>Stepan Ivanov</name>
+		<telephone>43523413</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Minst</city>
+			<street>Lenina 33</street>
+			</address>
+	</student>
+	<student login="zhenyachaichits" faculty="mmf">
+		<name>Evgeniy Chaichits</name>
+		<telephone>34523433</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Hrodna</city>
+			<street>Vrublevskogo 12</street>
+			</address>
+	</student>
+	<student login="anna.blizniova" faculty="mmf">
+		<name>Anna Blizniova</name>
+		<telephone>89789675</telephone>
+		<address>
+			<country>Russsia</country>
+			<city>Penza</city>
+			<street>Engelsa 18</street>
+			</address>
+	</student>
+	<student login="maxwell13131" faculty="fnn">
+		<name>Ivan Klevakin</name>
+		<telephone>43573453</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Brest</city>
+			<street>Tutcheva 56</street>
+			</address>
+	</student>
+	<student login="golovchits18" faculty="mmf">
+		<name>Igor Golovchits</name>
+		<telephone>4534532</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Vitebsk</city>
+			<street>Sovetsjkaya 56</street>
+			</address>
+	</student>
+	<student login="pavel_leshkevich" faculty="fifa">
+		<name>Pavel Leshkevich</name>
+		<telephone>34563456</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Brest</city>
+			<street>Socialisticheskaya 32</street>
+			</address>
+	</student>
+	<student login="alina.tsybulkina" faculty="mmf">
+		<name>Alina Tsybulkina</name>
+		<telephone>67567456</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Minsk</city>
+			<street>Melezha 55</street>
+			</address>
+	</student>
+	<student login="veronikachigir" faculty="mmf">
+		<name>Veronika Chigir</name>
+		<telephone>58325654</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Minsk</city>
+			<street>Loshica 22</street>
+			</address>
+	</student>
+	<student login="lubospodkidos" faculty="mmf">
+		<name>Artyom Yurhevich</name>
+		<telephone>85356743</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Mogilev</city>
+			<street>Boldina 81</street>
+			</address>
+	</student>
+</students>

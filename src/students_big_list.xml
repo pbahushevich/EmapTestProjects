@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stn:students  xmlns = "http://www.w3.org/2001/XMLSchema"
+			   xmlns:stn="http://www.epam.tc.com/pbahushevich/students"
+			   stn:schemaLocation="d:\\Java development\\EmapTestProjects\\src\\students.xsd">
+	<stn:student login="MitarAlex7" faculty="mmf">
+		<name>Mitar Alex</name>
+		<telephone>2456474</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Minsk</city>
+			<street>Kalinovsky 45</street>
+		</address>
+	</stn:student>
+	<stn:student login="stepa_ivanov" faculty="ksis">
+		<name>Stepan Ivanov</name>
+		<telephone>43523413</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Minsk</city>
+			<street>Lenina 33</street>
+			</address>
+	</stn:student>
+	<stn:student login="zhenyachaichits" faculty="mmf">
+		<name>Evgeniy Chaichits</name>
+		<telephone>34523433</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Hrodna</city>
+			<street>Vrublevskogo 12</street>
+			</address>
+	</stn:student>
+	<stn:student login="anna.blizniova" faculty="mmf">
+		<name>Anna Blizniova</name>
+		<telephone>89789675</telephone>
+		<address>
+			<country>Russsia</country>
+			<city>Penza</city>
+			<street>Engelsa 18</street>
+			</address>
+	</stn:student>
+	<stn:student login="maxwell13131" faculty="fnn">
+		<name>Ivan Klevakin</name>
+		<telephone>43573453</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Brest</city>
+			<street>Tutcheva 56</street>
+			</address>
+	</stn:student>
+	<student login="golovchits18" faculty="mmf">
+		<name>Igor Golovchits</name>
+		<telephone>4534532</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Vitebsk</city>
+			<street>Sovetsjkaya 56</street>
+			</address>
+	</student>
+	<student login="pavel_leshkevich" faculty="fifa">
+		<name>Pavel Leshkevich</name>
+		<telephone>34563456</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Brest</city>
+			<street>Socialisticheskaya 32</street>
+			</address>
+	</student>
+	<student login="alina.tsybulkina" faculty="mmf">
+		<name>Alina Tsybulkina</name>
+		<telephone>67567456</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Minsk</city>
+			<street>Melezha 55</street>
+			</address>
+	</student>
+	<student login="veronikachigir" faculty="mmf">
+		<name>Veronika Chigir</name>
+		<telephone>58325654</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Minsk</city>
+			<street>Loshica 22</street>
+			</address>
+	</student>
+	<student login="lubospodkidos" faculty="mmf">
+		<name>Artyom Yurhevich</name>
+		<telephone>85356743</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Mogilev</city>
+			<street>Boldina 81</street>
+			</address>
+	</student>
+	<student login="eshekor" faculty="ksis">
+		<name>Vladislav Fedorenko</name>
+		<telephone>4535634</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Minsk</city>
+			<street>Lenina 23</street>
+			</address>
+	</student>
+	<student login="vadikdrozd" faculty="ksis">
+		<name>Vadim Drozd</name>
+		<telephone>45467372</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Minsk</city>
+			<street>Lenina 34</street>
+			</address>
+	</student>
+	<student login="Dzmitry_Hlushchanka" faculty="ksis">
+		<name>Dzmitry Hlushchanka</name>
+		<telephone>45452734</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Minsk</city>
+			<street>Lenina 38</street>
+			</address>
+	</student>
+	<student login="Michelle_Wong" faculty="ksis">
+		<name>Michelle Wong</name>
+		<telephone>46363463</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Minsk</city>
+			<street>Lenina 73</street>
+			</address>
+	</student>
+	<student login="Lacey_Rob" faculty="ksis">
+		<name>Lacey Robbins</name>
+		<telephone>536356</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Hrodna</city>
+			<street>Engelsa 11</street>
+			</address>
+	</student>
+	<student login="Deidre_grave" faculty="ksis">
+		<name>Deidre Cosgrave</name>
+		<telephone>46745643</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Hrodna</city>
+			<street>Engelsa 14</street>
+			</address>
+	</student>
+	<student login="Ther_Allien" faculty="ksis">
+		<name>Theresa Allen</name>
+		<telephone>473573872</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Hrodna</city>
+			<street>Engelsa 19</street>
+			</address>
+	</student>
+	<student login="Mary_Steven" faculty="ksis">
+		<name>Mary Beth Steven</name>
+		<telephone>6473734</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Hrodna</city>
+			<street>Engelsa 22</street>
+			</address>
+	</student>
+	<student login="Cathy_rini" faculty="ksis">
+		<name>Cathy Chiavarini</name>
+		<telephone>95453652</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Hrodna</city>
+			<street>Lenina 11</street>
+			</address>
+	</student>
+	<student login="Julia_Paigo" faculty="ksis">
+		<name>Julia Paigo</name>
+		<telephone>75433389</telephone>
+		<address>
+			<country>Belarus</country>
+			<city>Hrodna</city>
+			<street>Engelsa 113</street>
+			</address>
+	</student>
+</stn:students>

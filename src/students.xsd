@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.epam.tc.com/pbahushevich/students"
+        xmlns:stn="http://www.epam.tc.com/pbahushevich/students"
+        elementFormDefault="unqualified">
+   <element name="students">
+    <complexType>
+        <sequence maxOccurs="unbounded">
+            <element name="student" minOccurs="0" maxOccurs="unbounded" type="stn:student"></element>
+        </sequence>
+    </complexType>
+
+   </element>
+    <complexType name="student" >
+        <sequence>
+            <element name="name" type="string"></element>
+            <element name="telephone" type="string"></element>
+            <element name = "address">
+                <complexType>
+                    <sequence>
+                        <element name="country"></element>
+                        <element name="city"></element>
+                        <element name="street"></element>
+                    </sequence>
+                </complexType>
+            </element>
+        </sequence>
+        <attribute name="login" type="string"></attribute>
+        <attribute name="faculty" type="string"></attribute>
+    </complexType>
+
+</schema>
